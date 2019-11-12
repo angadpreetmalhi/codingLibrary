@@ -1,2 +1,2 @@
 # codingLibrary
-Small library to lend and donate books
+In this small #codingLibrary a user can lend and donate books.
